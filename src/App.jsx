@@ -1,5 +1,4 @@
 import React from "react";
-import "./App.css";
 
 function App() {
   const contests = [
@@ -23,13 +22,6 @@ function App() {
       time: "Wednesday 8 PM",
       date: "29 May 2026",
       color: "#5b4638",
-    },
-    {
-      platform: "AtCoder",
-      name: "Beginner Contest 400",
-      time: "Saturday 6:30 PM",
-      date: "31 May 2026",
-      color: "#00c853",
     },
   ];
 
